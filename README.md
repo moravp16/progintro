@@ -12,3 +12,4 @@ Základní principy testování
 Sdílené proměnné a komunikace mezi částmi programu.
 Běžně používané datové typy a třídy.
 Analýza výstupů programu (profiling)
+blabla
