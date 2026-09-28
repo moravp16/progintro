@@ -1,4 +1,4 @@
-émata
+Témata
 Kompilace a verzování
 Základy algoritmizace
 Datové typy a vstup/výstup
@@ -12,3 +12,5 @@ Základní principy testování
 Sdílené proměnné a komunikace mezi částmi programu.
 Běžně používané datové typy a třídy.
 Analýza výstupů programu (profiling)
+Under development
+Upraveno online
